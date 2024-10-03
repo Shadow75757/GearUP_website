@@ -1,0 +1,9 @@
+[14-Jun-2023 12:18:57 UTC] PHP Warning:  mysqli_stmt_bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/epbjc/public_html/gearup/includes/reset-request.inc.php on line 23
+[14-Jun-2023 12:18:57 UTC] PHP Warning:  mysqli_stmt_bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/epbjc/public_html/gearup/includes/reset-request.inc.php on line 33
+[14-Jun-2023 12:18:57 UTC] PHP Warning:  mysqli_close() expects exactly 1 parameter, 0 given in /home/epbjc/public_html/gearup/includes/reset-request.inc.php on line 38
+[14-Jun-2023 12:19:05 UTC] PHP Warning:  mysqli_stmt_bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/epbjc/public_html/gearup/includes/reset-request.inc.php on line 23
+[14-Jun-2023 12:19:05 UTC] PHP Warning:  mysqli_stmt_bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/epbjc/public_html/gearup/includes/reset-request.inc.php on line 33
+[14-Jun-2023 12:19:05 UTC] PHP Warning:  mysqli_close() expects exactly 1 parameter, 0 given in /home/epbjc/public_html/gearup/includes/reset-request.inc.php on line 38
+[14-Jun-2023 12:51:19 UTC] PHP Warning:  mysqli_stmt_bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/epbjc/public_html/gearup/includes/reset-request.inc.php on line 23
+[14-Jun-2023 12:51:19 UTC] PHP Warning:  mysqli_stmt_bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/epbjc/public_html/gearup/includes/reset-request.inc.php on line 33
+[14-Jun-2023 12:51:19 UTC] PHP Warning:  mysqli_close() expects exactly 1 parameter, 0 given in /home/epbjc/public_html/gearup/includes/reset-request.inc.php on line 38
