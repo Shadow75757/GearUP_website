@@ -2,10 +2,10 @@
 
     <?php
     // Defining the access data
-    define("DBSERVER", "epbjc-porto.net"); // Database server
-    define("DBUSER", "epbjc_gearup"); // Database username
-    define("DBPWD", "qJzY24QsHf"); // Database password
-    define("DBNAME", "epbjc_gearup"); // Database name
+    define("DBSERVER", ""); // Database server
+    define("DBUSER", ""); // Database username
+    define("DBPWD", ""); // Database password
+    define("DBNAME", ""); // Database name
     
     // Takes the values that we declared and creates the database connection
     $con = mysqli_connect(DBSERVER, DBUSER, DBPWD, DBNAME);
